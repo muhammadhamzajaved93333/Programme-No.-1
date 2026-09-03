@@ -12,5 +12,5 @@ int main()
 	cout<<"Numbers are different.";
 	else
 	cout<<"Numbers are different.";
-	return 0;
+	
 }
